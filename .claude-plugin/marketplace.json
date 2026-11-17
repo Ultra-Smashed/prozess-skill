@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "prozess",
+  "description": "Alles aufschreiben, was bisher nur in deinem Kopf ist.",
+  "owner": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "plugins": [
+    {
+      "name": "prozess",
+      "description": "Macht Wissen übergebbar: Zeitfresser-Analyse, Recruiting-Kit, Briefings, Anleitungen aus Sprachmemos.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

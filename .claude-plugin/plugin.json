@@ -1,0 +1,23 @@
+{
+  "name": "prozess",
+  "description": "Macht Wissen übergebbar: Zeitfresser-Analyse, Recruiting-Kit, Briefings, Anleitungen aus Sprachmemos.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "homepage": "https://thanisch.co/wissen/guides/prozess-skill-claude",
+  "repository": "https://github.com/Ultra-Smashed/prozess-skill",
+  "license": "MIT",
+  "keywords": [
+    "prozesse",
+    "sop",
+    "anleitung",
+    "delegieren",
+    "recruiting",
+    "briefing",
+    "automatisierung",
+    "deutsch",
+    "claude-skills"
+  ]
+}
